@@ -11,7 +11,7 @@
 }
 
 #nheader{
-    background-color: purple;
+    background-color: rgb(17, 7, 26);
     padding: 25px;
 }
 
@@ -20,7 +20,7 @@ H1{
 }
 
 #nparagraph{
-    background-color: #63df6f;
+    background-color: #8a8178;
     height: 350px;
     padding: 50px;
 }
